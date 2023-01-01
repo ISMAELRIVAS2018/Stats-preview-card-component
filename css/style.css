@@ -67,7 +67,7 @@ body {
     left: 0;
     right: 0;
     bottom: 0;
-    opacity: .89;
+    opacity: .95;
     object-fit: cover;
     mix-blend-mode: multiply;
 }
